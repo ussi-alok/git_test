@@ -1,3 +1,4 @@
 This is the first line of code.
 This is another lin of code.
 This line is added after the addition of no reply github
+checking the commit withouth -m flag and message
